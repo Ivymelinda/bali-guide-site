@@ -1,0 +1,116 @@
+body {
+	margin: 0;
+	text-align: center;
+	font-size: 20px;
+	font-family: Poppins;
+}
+
+.main {
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+	color: #FFFFFF;
+	margin-bottom: 0;
+}
+#hero {
+	background-image: url("hometown.jpg");
+	background-size: cover;
+	padding: 250px 0px 250px 0px;
+	margin-bottom: 0;
+
+}
+
+#hero-head {
+	display: block;
+	background: #3996a1;
+	padding: 8px 15px 8px 15px;
+	font-size: 50px;
+	border-radius: 15px;
+	margin-bottom: 0;
+}
+
+.hero-desc {
+	display: block;
+	background: #70b9ae;
+	padding: 5px 10px 5px 10px;
+	border-radius: 10px;
+	font-size: 22px;
+	margin-bottom: 0;
+}
+
+#containernol {
+	background: #d0e1e0;
+	margin-bottom: 100px;
+}
+
+.containersatu {
+	color: black;
+}
+
+.container1h1 {
+	margin-top: 100px;
+}
+
+.containerdua {
+	display: flex;
+	flex-direction: row;
+	justify-content: space-around;
+	align-items: center;
+}
+
+.bali1, .bali2, .bali3 {
+	width: 400px;
+	height: 200px;
+	border-radius: 20px;
+}
+
+.tujuandesc {
+	width: 450px;
+	text-align: center;
+	margin-bottom: 100px;
+}
+
+.containertiga {
+
+}
+
+.containerempat {
+	display: flex;
+	flex-direction: row;
+	justify-content: center;
+	border-radius: 10px;
+	margin-bottom: 100px;
+}
+
+#bali-guide, #containerempatp {
+	text-align: center;
+	justify-content: center;
+}
+
+#bali-guide {
+	width: 500px;
+	border-radius: 20px;
+	margin-right: 50px;
+	text-align: center;
+}
+
+#containerempatp {
+	width: 300px;
+	text-align: center;
+}
+
+.button1 {
+	background: #328b8d;
+	color: #ffffff;
+	font-size: 20px;
+	border-radius: 20px;
+	padding: 10px 20px 10px 20px;
+	border: none;
+}
+
+
+
+
+
+
